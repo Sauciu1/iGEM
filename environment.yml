@@ -1,0 +1,13 @@
+name: iGEM
+channels:
+  - conda-forge
+  - schrodinger
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - biopython
+  - requests
+  - seaborn
+  - 
+  - pymol-open-source

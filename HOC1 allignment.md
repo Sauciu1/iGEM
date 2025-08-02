@@ -29,7 +29,7 @@ fetchAF2 F2QVW2, HOC1_truncated
 fetchAF2 Q71A36, HOC1_full
 align HOC1_truncated, HOC1_full
 color blue, HOC1_full
-red, HOC1_truncated
+color red, HOC1_truncated
 
 ```
 The sequences should now be aligned.

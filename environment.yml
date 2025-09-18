@@ -9,5 +9,6 @@ dependencies:
   - biopython
   - requests
   - seaborn
-  - 
+  - matplotlib
   - pymol-open-source
+  - ipykernel

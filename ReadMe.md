@@ -7,9 +7,6 @@ Don't forget to include it in path. Otherwise its gonna be very annoying.
 run:
 
 ``` cmd
-conda env create -f environment.yml 
-
-``` cmd
 conda env create --file environment.yml
 conda activate iGEM
 ```
@@ -17,7 +14,6 @@ conda activate iGEM
 to rebuild after modifying the yml file (to include new variables):
 
 ``` cmd
-
 conda env update -f environment.yml
 conda activate iGEM
 ```

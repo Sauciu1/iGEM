@@ -1,3 +1,4 @@
 /*.cif
 data/pymol/images/*
 data/crt/*
+*/__pycache__/*
